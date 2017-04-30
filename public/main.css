@@ -1,0 +1,19 @@
+body {
+
+    background-color: darkgrey;
+
+}
+
+body #root{
+
+    position: absolute;
+    text-align: center;
+    width: 600px;
+    height: 600px;
+    box-shadow: 5px 5px grey;
+    padding: 25px;
+    margin: 25px;
+    display: inline-block;
+    background-color: white;
+
+}
